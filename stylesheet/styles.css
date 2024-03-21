@@ -1,0 +1,12 @@
+
+#nav{
+    background-color: cadetblue;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+#nav a:hover{
+    background-color: rgb(129, 84, 253);
+    color: bisque;
+}
